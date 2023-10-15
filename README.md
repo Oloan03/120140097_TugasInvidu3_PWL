@@ -1,5 +1,3 @@
-# 120140097_TugasInvidu3_PWL
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
