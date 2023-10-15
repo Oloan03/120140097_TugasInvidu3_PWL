@@ -4,7 +4,7 @@ import axios from 'axios';
 const Home = props => {
   const [news, setNews] = useState([]);
   const apiKey = 'a914f6db85534d6694561c436ea763cf'; // Ganti dengan API key Anda
-  const apiUrl = 'https://newsapi.org/v2/everything?q=tesla&from=2023-09-15&sortBy=publishedAt';
+  const apiUrl = 'https://newsapi.org/v2/top-headlines?country=id';
 
   useEffect(() => {
     const fetchNews = async () => {
